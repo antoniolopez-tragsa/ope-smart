@@ -30,6 +30,11 @@ function splitQuestions(){
   SPECIFIC = QUESTIONS.slice(200, 400);
 }
 
+function shuffleArray(array){
+
+  return [...array].sort(() => Math.random() - 0.5);
+}
+
 function setupNavigation(){
 
   document.querySelectorAll('.menu-btn').forEach(btn => {
@@ -339,6 +344,11 @@ function startTest(){
   CURRENT = 0;
   SCORE = 0;
   FAILS = [];
+
+  QUESTIONS = shuffleArray([
+    ...COMMON,
+    ...SPECIFIC
+  ]).slice(0, 50);
 
   renderTestQuestion();
 }
