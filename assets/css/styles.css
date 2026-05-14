@@ -236,3 +236,29 @@ body{
     font-size:30px;
   }
 }
+
+
+/* ===== MOBILE SAFE AREA FIX ===== */
+
+@media(max-width:900px){
+
+  body{
+    padding-bottom:120px;
+  }
+
+  .content{
+    padding-bottom:180px !important;
+  }
+
+  .question-card,
+  .hero,
+  .block-card,
+  .stat-card{
+    margin-bottom:24px;
+  }
+
+  .sidebar{
+    padding-bottom:calc(12px + env(safe-area-inset-bottom));
+  }
+
+}
