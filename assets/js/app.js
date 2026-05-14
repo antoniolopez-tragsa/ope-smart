@@ -7,6 +7,7 @@ let SPECIFIC = [];
 
 let CURRENT = 0;
 let CURRENT_BLOCK = [];
+let BLOCK_FAILS = [];
 
 let SCORE = 0;
 let FAILS = [];
@@ -169,6 +170,7 @@ window.startBlock = function(type, blockIndex){
   CURRENT_BLOCK = source.slice(start, end);
 
   CURRENT = 0;
+  BLOCK_FAILS = [];
 
   renderStudyQuestion(type, blockIndex);
 }
@@ -179,7 +181,7 @@ function renderStudyQuestion(type, blockIndex){
 
   if(!q){
 
-    renderBlockSelection();
+    renderBlockResults(type, blockIndex);
     return;
   }
 
@@ -219,10 +221,25 @@ function renderStudyQuestion(type, blockIndex){
 
       const index = Number(btn.dataset.index);
 
+      const buttons = document.querySelectorAll('.answer-btn');
+
       if(q.answers[index].correct){
+
         btn.classList.add('correct');
+
       }else{
+
         btn.classList.add('wrong');
+
+        BLOCK_FAILS.push(q);
+
+        q.answers.forEach((answer, idx) => {
+
+          if(answer.correct){
+            buttons[idx].classList.add('correct');
+          }
+
+        });
       }
 
       setTimeout(() => {
@@ -231,10 +248,86 @@ function renderStudyQuestion(type, blockIndex){
 
         renderStudyQuestion(type, blockIndex);
 
-      }, 1000);
+      }, 1400);
     });
   });
 }
+
+
+function renderBlockResults(type, blockIndex){
+
+  if(BLOCK_FAILS.length === 0){
+
+    view.innerHTML = `
+      <section class="hero">
+
+        <span class="badge">Bloque completado</span>
+
+        <h2>¡Perfecto!</h2>
+
+        <p>
+          Has completado el bloque sin errores.
+        </p>
+
+        <br>
+
+        <button class="primary-btn"
+          onclick="window.location.reload()">
+          Volver al inicio
+        </button>
+
+      </section>
+    `;
+
+    return;
+  }
+
+  view.innerHTML = `
+
+    <section class="hero" style="margin-bottom:24px;">
+
+      <span class="badge">Bloque completado</span>
+
+      <h2>Preguntas falladas</h2>
+
+      <p>
+        Has fallado ${BLOCK_FAILS.length} preguntas en este bloque.
+      </p>
+
+    </section>
+
+    <div class="answers">
+
+      ${BLOCK_FAILS.map(q => `
+
+        <section class="question-card">
+
+          <h2>${q.question}</h2>
+
+          <div class="answers">
+
+            ${q.answers.map(a => `
+
+              <div class="answer-btn ${a.correct ? 'correct' : ''}">
+
+                <strong>${a.letter.toUpperCase()})</strong>
+                ${a.text}
+
+              </div>
+
+            `).join('')}
+
+          </div>
+
+        </section>
+
+      `).join('')}
+
+    </div>
+  `;
+}
+
+
 
 function startTest(){
 
