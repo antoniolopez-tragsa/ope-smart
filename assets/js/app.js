@@ -72,8 +72,12 @@ function setupNavigation(){
 function renderHome(){
 
   view.innerHTML = `
-    <section class="hero">
+
+    <div class="topbar">
       <span class="badge">Preparación OPE</span>
+    </div>
+
+    <section class="hero">
 
       <h2>Estudia de forma inteligente</h2>
 
@@ -81,6 +85,7 @@ function renderHome(){
         Plataforma moderna con estudio por bloques, repaso inteligente,
         estadísticas y progreso persistente.
       </p>
+
     </section>
   `;
 }
