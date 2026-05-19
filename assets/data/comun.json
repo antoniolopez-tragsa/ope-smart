@@ -1,5 +1,5 @@
 {
-  "file": "comun_v2.pdf",
+  "file": "comun.pdf",
   "total_questions": 300,
   "questions": [
     {
@@ -13,7 +13,7 @@
         },
         {
           "letter": "b",
-          "text": "La inexistencia de inhabilitación o suspensión para el ejercicio profesional por sentencia judicial, oaunque no sea firme, durante el periodo de tiempo que fije ésta; por resolución sancionadora impuesta por un colegio profesional sanitario, . cuando una ley estatal establezca para este ejercicio la obligación de pertenecer al colegio profesional respectivo durante i el periodo de tiempo que fije ésta; o por resolución administrativa sancionadora firme, durante el periodo de tiempo que d fije ésta, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública.",
+          "text": "La inexistencia de inhabilitación o suspensión para el ejercicio profesional por sentencia judicial, aunque no sea firme, durante el periodo de tiempo que fije ésta; por resolución sancionadora impuesta por un colegio profesional sanitario,. cuando una ley estatal establezca para este ejercicio la obligación de pertenecer al colegio profesional respectivo durante el periodo de tiempo que fije ésta; o por resolución administrativa sancionadora firme, durante el periodo de tiempo que fije ésta, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública.",
           "correct": false
         },
         {
@@ -195,7 +195,7 @@
         },
         {
           "letter": "b",
-          "text": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. (Incorrecta)",
+          "text": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
           "correct": false
         },
         {
@@ -216,7 +216,7 @@
       "answers": [
         {
           "letter": "a",
-          "text": "La promoción y mantenimiento de la salud de las personas pacientes. i",
+          "text": "La promoción y mantenimiento de la salud de las personas pacientes.",
           "correct": false
         },
         {
@@ -434,7 +434,7 @@
         },
         {
           "letter": "c",
-          "text": "El personal profesional tiene el deber de proporcionar a las personas pacientes información precisa sobre . su formación profesional, la forma en que han actualizado sus conocimientos y lasidemandas de respons- abilidad que hayan podido derivar en responsabilidades administrativas. (Cdorrecta)",
+          "text": "El personal profesional tiene el deber de proporcionar a las personas pacientes información precisa sobre. su formación profesional, la forma en que han actualizado sus conocimientos y lasidemandas de respons- abilidad que hayan podido derivar en responsabilidades administrativas. (Cdorrecta)",
           "correct": false
         },
         {
@@ -550,7 +550,7 @@
     },
     {
       "number": 22,
-      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para hacer efectivo el derecho a la protección de la salud y a la atención sanitaria, las personas titulares de los . mismos deberán: i",
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para hacer efectivo el derecho a la protección de la salud y a la atención sanitaria, las personas titulares de los. mismos deberán:",
       "answers": [
         {
           "letter": "a",
@@ -559,7 +559,7 @@
         },
         {
           "letter": "b",
-          "text": "Tener reconocido su derecho a la asistencia sanitaria en España por cualquier otro título jurídico, aun no teniendo su residencia habitual en territorio español, siempre que no exista un tercero obligado al pago de dicha asistencia. k",
+          "text": "Tener reconocido su derecho a la asistencia sanitaria en España por cualquier otro título jurídico, aun no teniendo su residencia habitual en territorio español, siempre que no exista un tercero obligado al pago de dicha asistencia.",
           "correct": false
         },
         {
@@ -590,7 +590,7 @@
         },
         {
           "letter": "c",
-          "text": "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a. u",
+          "text": "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a.",
           "correct": false
         },
         {
@@ -699,7 +699,7 @@
         },
         {
           "letter": "d",
-          "text": "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos. (Correcta)",
+          "text": "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos.",
           "correct": false
         }
       ]
@@ -736,7 +736,7 @@
       "answers": [
         {
           "letter": "a",
-          "text": "La cartera común de servicios del Sistema Nacional de Salud en su modalidad básica de servicios asistenciales. (Incorrecta)",
+          "text": "La cartera común de servicios del Sistema Nacional de Salud en su modalidad básica de servicios asistenciales.",
           "correct": false
         },
         {
@@ -819,7 +819,7 @@
         },
         {
           "letter": "b",
-          "text": "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias a y Prestaciones del Sistema Nacional de Salud, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos z menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo. t",
+          "text": "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias a y Prestaciones del Sistema Nacional de Salud, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos z menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo.",
           "correct": true
         },
         {
@@ -954,7 +954,7 @@
         },
         {
           "letter": "c",
-          "text": "La aptitud del personal profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean. i",
+          "text": "La aptitud del personal profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean.",
           "correct": true
         },
         {
@@ -1027,7 +1027,7 @@
         },
         {
           "letter": "b",
-          "text": "Establecer planes preventivos para hacer frente a situaciones de especial riesgo o alarma para la salud pública. (Incorrecta)",
+          "text": "Establecer planes preventivos para hacer frente a situaciones de especial riesgo o alarma para la salud pública.",
           "correct": false
         },
         {
@@ -1516,7 +1516,7 @@
       "answers": [
         {
           "letter": "a",
-          "text": "El personal tendrá derecho a una vacación retribuida cuya duración no será inferior en ningún caso a 30 días naturales. s",
+          "text": "El personal tendrá derecho a una vacación retribuida cuya duración no será inferior en ningún caso a 30 días naturales.",
           "correct": false
         },
         {
@@ -1677,7 +1677,7 @@
         },
         {
           "letter": "b",
-          "text": "La orientación prioritaria de los medios y actuaciones a la promoción de la salud y a la prevención de las enfermedades. t",
+          "text": "La orientación prioritaria de los medios y actuaciones a la promoción de la salud y a la prevención de las enfermedades.",
           "correct": false
         },
         {
@@ -2436,7 +2436,7 @@
         },
         {
           "letter": "c",
-          "text": "Aquellas facultades de gestión centralizada que los estatutos sociales del ente público Osakidetza-Servicio Vasco de Salud atribuyen expresamente al Consejo de Administración del ente público y las competencias propias de otras instancias de . acuerdo con las Leyes y Reglamentos vigentes. i",
+          "text": "Aquellas facultades de gestión centralizada que los estatutos sociales del ente público Osakidetza-Servicio Vasco de Salud atribuyen expresamente al Consejo de Administración del ente público y las competencias propias de otras instancias de. acuerdo con las Leyes y Reglamentos vigentes.",
           "correct": false
         },
         {
@@ -3081,7 +3081,7 @@
         },
         {
           "letter": "b",
-          "text": "Es el órgano consultivo de asesoramiento técnico y participación de las y los profesionales asistenciales. a",
+          "text": "Es el órgano consultivo de asesoramiento técnico y participación de las y los profesionales asistenciales.",
           "correct": true
         },
         {
@@ -3159,7 +3159,7 @@
         },
         {
           "letter": "b",
-          "text": "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios . o establecimientos sanitarios de titularidad pública o concertados que integran el sistema sanitario de Euskadi. Las i acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica. d",
+          "text": "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios. o establecimientos sanitarios de titularidad pública o concertados que integran el sistema sanitario de Euskadi. Las i acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica.",
           "correct": false
         },
         {
@@ -3289,7 +3289,7 @@
         },
         {
           "letter": "b",
-          "text": "Está reconocido en el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, como derecho colectivo que se ejerce a través de organizaciones. z",
+          "text": "Está reconocido en el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, como derecho colectivo que se ejerce a través de organizaciones.",
           "correct": false
         },
         {
@@ -3336,12 +3336,12 @@
       "answers": [
         {
           "letter": "a",
-          "text": "A la seguridad de recibir los cuidados que necesita, incluso en el caso de que fuese necesaria la intervención dge la justicia, salvo oposición de los padres o madres, o la persona sustituta, en ejercicio del derecho fundamental a la libertad religiosa. r",
+          "text": "A la seguridad de recibir los cuidados que necesita, incluso en el caso de que fuese necesaria la intervención dge la justicia, salvo oposición de los padres o madres, o la persona sustituta, en ejercicio del derecho fundamental a la libertad religiosa.",
           "correct": false
         },
         {
           "letter": "b",
-          "text": "A la seguridad de recibir los cuidados que necesita, incluso en el caso de que fuese necesaria la intervención de la Consejería de Sanidad, salvo que la actuación sea contraria al entorno religioso y cultural del niño, niña o persona adolescente y, por . lo tanto, también a su voluntad presunta. i",
+          "text": "A la seguridad de recibir los cuidados que necesita, incluso en el caso de que fuese necesaria la intervención de la Consejería de Sanidad, salvo que la actuación sea contraria al entorno religioso y cultural del niño, niña o persona adolescente y, por. lo tanto, también a su voluntad presunta.",
           "correct": false
         },
         {
@@ -3523,7 +3523,7 @@
         },
         {
           "letter": "b",
-          "text": "Formular propuestas de mediación cuando la naturaleza del tema sobre el que verse la reclamación lo permita. (Incorrecta)",
+          "text": "Formular propuestas de mediación cuando la naturaleza del tema sobre el que verse la reclamación lo permita.",
           "correct": false
         },
         {
@@ -3741,7 +3741,7 @@
         },
         {
           "letter": "d",
-          "text": "La finalidad y la naturaleza de cada intervención, sus riesgos, sus consecuencias y los derechos de las personas pacientes. s",
+          "text": "La finalidad y la naturaleza de cada intervención, sus riesgos, sus consecuencias y los derechos de las personas pacientes.",
           "correct": false
         }
       ]
@@ -3793,7 +3793,7 @@
         },
         {
           "letter": "d",
-          "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho. s",
+          "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho.",
           "correct": false
         }
       ]
@@ -4100,12 +4100,12 @@
         },
         {
           "letter": "c",
-          "text": "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas. (Correcta)",
+          "text": "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas.",
           "correct": false
         },
         {
           "letter": "d",
-          "text": "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal en situaciones donde la . persona paciente no puede expresar su voluntad por sí misma. i",
+          "text": "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal en situaciones donde la. persona paciente no puede expresar su voluntad por sí misma.",
           "correct": false
         }
       ]
@@ -4152,7 +4152,7 @@
         },
         {
           "letter": "c",
-          "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la e extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas. d",
+          "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la e extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas.",
           "correct": false
         },
         {
@@ -4204,7 +4204,7 @@
         },
         {
           "letter": "c",
-          "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante d una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos. a",
+          "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante d una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos.",
           "correct": false
         },
         {
@@ -4324,7 +4324,7 @@
       "answers": [
         {
           "letter": "a",
-          "text": "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico. (Correcta)",
+          "text": "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico.",
           "correct": false
         },
         {
@@ -4438,7 +4438,7 @@
         },
         {
           "letter": "c",
-          "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten . la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente.",
+          "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten. la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente.",
           "correct": true
         },
         {
@@ -4495,7 +4495,7 @@
         },
         {
           "letter": "d",
-          "text": "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen. a",
+          "text": "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen.",
           "correct": false
         }
       ]
@@ -4684,7 +4684,7 @@
     },
     {
       "number": 181,
-      "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto roefundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto a la . legitimidad para presentar una queja ante Emakunde-Instituto Vasco de la Mujer, señale la respuesta correcta:",
+      "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto roefundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto a la. legitimidad para presentar una queja ante Emakunde-Instituto Vasco de la Mujer, señale la respuesta correcta:",
       "answers": [
         {
           "letter": "a",
@@ -5114,7 +5114,7 @@
         },
         {
           "letter": "c",
-          "text": "Atención Vasca a la Adicción a Drogas. i",
+          "text": "Atención Vasca a la Adicción a Drogas.",
           "correct": false
         },
         {
@@ -5608,7 +5608,7 @@
         },
         {
           "letter": "c",
-          "text": "Ser el fundamento ético y social que soporta la actividad del Sistema Público de Salud de Euskadi. i",
+          "text": "Ser el fundamento ético y social que soporta la actividad del Sistema Público de Salud de Euskadi.",
           "correct": true
         },
         {
@@ -5906,7 +5906,7 @@
     },
     {
       "number": 228,
-      "question": "La Línea Estratégica 18 sobre \"Digitalización en Salud\" del Pacto Vasco de Salud busca la transformación . digital para:",
+      "question": "La Línea Estratégica 18 sobre \"Digitalización en Salud\" del Pacto Vasco de Salud busca la transformación. digital para:",
       "answers": [
         {
           "letter": "a",
@@ -6565,7 +6565,7 @@
         },
         {
           "letter": "b",
-          "text": "Se define como una guía de recomendaciones de adhesión voluntaria para las diferentes Organizaciones de Servicios. s",
+          "text": "Se define como una guía de recomendaciones de adhesión voluntaria para las diferentes Organizaciones de Servicios.",
           "correct": false
         },
         {
@@ -6617,7 +6617,7 @@
         },
         {
           "letter": "b",
-          "text": "La derivación inmediata de cualquier caso detectado a servicios jurídicos externos, sin intervención del personal sanitario. e",
+          "text": "La derivación inmediata de cualquier caso detectado a servicios jurídicos externos, sin intervención del personal sanitario.",
           "correct": false
         },
         {
@@ -6700,7 +6700,7 @@
         },
         {
           "letter": "c",
-          "text": "Al acceder por primera vez a una página web de Osakidetza, la página de inicio se mostrará por defecto en euskera. s",
+          "text": "Al acceder por primera vez a una página web de Osakidetza, la página de inicio se mostrará por defecto en euskera.",
           "correct": false
         },
         {
@@ -6804,7 +6804,7 @@
         },
         {
           "letter": "c",
-          "text": "Siempre las dos lenguas oficiales independientemente de la lengua utilizada por cada ciudadano o ciudadana. (Incor- . recta) i",
+          "text": "Siempre las dos lenguas oficiales independientemente de la lengua utilizada por cada ciudadano o ciudadana. (Incor-. recta)",
           "correct": false
         },
         {
@@ -7771,13 +7771,13 @@
         },
         {
           "letter": "d",
-          "text": "Reducir el número de personal público. . i d a k s u e p s - t g u @ a z t e d i k a s o En cumplimiento del Reglamento General de Protección de Datos y de la Ley Orgánica 3/2018, sus datos personales serán trata- Teléfono: 607 16 20 21 dos por ESFERA OPOSICIONES con la finalidad de gestionar su relación con la entidad y el envío de comunicaciones por cualquier osakidetza@ugt-speuskadi.org medio. Puede ejercer sus derechos de acceso, rectificación, supresión y oposición en Ramón Montenegro 32, 27002 (LUGO)",
+          "text": "Reducir el número de personal público.",
           "correct": false
         }
       ]
     },
     {
-      "number": 2030,
+      "number": 230,
       "question": "¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el t documento?",
       "answers": [
         {
