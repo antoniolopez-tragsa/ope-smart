@@ -26,8 +26,8 @@ async function init(){
 
 function splitQuestions(){
 
-  COMMON = QUESTIONS.slice(0, 200);
-  SPECIFIC = QUESTIONS.slice(200, 400);
+  COMMON = QUESTIONS.slice(0, 300);
+  SPECIFIC = QUESTIONS.slice(300, 500);
 }
 
 function shuffleArray(array){
@@ -106,13 +106,13 @@ function renderBlockSelection(){
 
     <section class="hero" style="margin-bottom:24px;">
       <h2>Parte común</h2>
-      <p>10 bloques de 20 preguntas</p>
+      <p>15 bloques de 20 preguntas</p>
     </section>
 
     <div class="blocks-grid">
   `;
 
-  for(let i=0;i<10;i++){
+  for(let i=0;i<15;i++){
 
     const start = i * blockSize + 1;
     const end = start + 19;
