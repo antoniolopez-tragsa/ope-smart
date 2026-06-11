@@ -705,7 +705,7 @@
         {
           "letter": "d",
           "text": "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos. (Cor- recta)",
-          "correct": false
+          "correct": true
         }
       ]
     },
