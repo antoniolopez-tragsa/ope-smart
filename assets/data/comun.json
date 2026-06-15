@@ -1600,7 +1600,7 @@
         {
           "letter": "a",
           "text": "Todas las personas residentes en el territorio de Euskadi, así como para las personas transeúntes. (Cor- recta)",
-          "correct": false
+          "correct": true
         },
         {
           "letter": "b",
