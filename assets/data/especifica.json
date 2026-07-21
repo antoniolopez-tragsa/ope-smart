@@ -1320,6 +1320,11 @@
           "letter": "c",
           "text": "Funciona exclusivamente en entornos urbanos, con alcances máximos de 2 km y alto consumo de energía.",
           "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Requiere licencia propietaria y ofrece velocidades comparables a WiFi.",
+          "correct": false
         }
       ]
     },
@@ -1439,6 +1444,16 @@
         {
           "letter": "b",
           "text": "En 3 documentos: requisitos del software, diseño del software, documento de cambios.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "En 5 documentos: requisitos del software, diseño del software, código fuente, sistema de software y documento de cambios.",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "En 3 documentos: requisitos del software, documento de pruebas, documento de cambios.",
           "correct": false
         }
       ]
@@ -1695,6 +1710,11 @@
           "letter": "c",
           "text": "Entorno del hardware y el entorno del software.",
           "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Entorno de los datos y el entorno de los procesos.",
+          "correct": false
         }
       ]
     },
@@ -2101,6 +2121,16 @@
           "letter": "b",
           "text": "Crear cuentas empresariales.",
           "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Gestionar actualizaciones de drivers.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Instalar aplicaciones de prueba sin certificación.",
+          "correct": true
         }
       ]
     },
@@ -2247,6 +2277,16 @@
           "letter": "b",
           "text": "AppLocker.",
           "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Device Guard.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Credential Guard.",
+          "correct": false
         }
       ]
     },
@@ -2653,6 +2693,16 @@
           "letter": "b",
           "text": " En todos los planes de Microsoft 365, incluyendo OneDrive para la Empresa y los planes educativos.",
           "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " En los planes Microsoft 365 Empresa Básico y Empresa Estándar, pero no en los planes personales ni familiares.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": " En los planes Microsoft 365 Empresa únicamente si el administrador del tenant de Microsoft 365 lo habilita expresamente desde el centro de administración corporativo.",
+          "correct": false
         }
       ]
     },
@@ -2706,6 +2756,21 @@
           "letter": "a",
           "text": " Extraer el archivo del repositorio antes de abrirlo, de forma que ninguna otra persona usuaria pueda modificarlo mientras esté extraído, e insertarlo de nuevo una vez guardados los cambios para que todas puedan ver las modificaciones.",
           "correct": true
+        },
+        {
+          "letter": "b",
+          "text": " Abrir el archivo directamente desde la biblioteca y activar el modo de edición exclusiva desde las opciones del documento, que bloqueará automáticamente el acceso al resto de personas usuarias mientras esté abierto.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " Crear una copia local del archivo, realizar las modificaciones necesarias y subir la nueva versión a la biblioteca, sobreescribiendo la anterior para que el resto de personas usuarias accedan a la versión actualizada.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": " Compartir el archivo con permisos de solo lectura para el resto de personas usuarias mientras una persona del equipo lo edita, y restablecer los permisos de edición una vez finalizados los cambios.",
+          "correct": false
         }
       ]
     },
@@ -2769,6 +2834,22 @@
           "letter": "a",
           "text": " Se denomina Home.aspx; es la primera página del sitio que aparece al acceder a él y, aunque al crear el sitio se propone una versión estándar, puede modificarse o eliminarse y sustituirse por otra.",
           "correct": true
+        },
+        ,
+        {
+          "letter": "b",
+          "text": " Se denomina Index.aspx; es la primera página del sitio que aparece al acceder a él y, aunque al crear el sitio se propone una versión estándar, puede modificarse o eliminarse y sustituirse por otra.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " Se denomina Index.aspx y es una página generada automáticamente que recoge un índice de todos los contenidos del sitio, pudiendo ser modificada pero no eliminada.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": " Se denomina Home.aspx y es una página generada automáticamente que recoge un índice de todos los contenidos del sitio, pudiendo ser modificada pero no eliminada.",
+          "correct": false
         }
       ]
     },
@@ -3227,6 +3308,16 @@
           "letter": "b",
           "text": " Transferencia de sus ficheros personales a un soporte desmagnetizado.",
           "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " Cancelación o bloqueo inmediato de las cuentas de una persona usuaria.",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": " Cambio de contraseña de acceso al BIOS de su estación de trabajo.",
+          "correct": false
         }
       ]
     },
@@ -3659,6 +3750,16 @@
           "letter": "b",
           "text": " Únicamente en formato papel certificado y compulsado para garantizar su autenticidad.",
           "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " En un formato estructurado, de uso común y lectura mecánica.",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": " En un formato cifrado que solo pueda ser abierto por autoridades de control.",
+          "correct": false
         }
       ]
     },
@@ -4058,7 +4159,22 @@
       "answers": [
         {
           "letter": "a",
-          "text": " El derecho a la desconexión faculta a la persona trabajadora para interrumpir de forma discrecional el uso de herramientas tecnológicas durante la jornada laboral",
+          "text": " El derecho a la desconexión faculta a la persona trabajadora para interrumpir de forma discrecional el uso de herramientas tecnológicas durante la jornada laboral efectiva, siempre que se acredite un riesgo de fatiga informática conforme a la normativa de prevención de riesgos laborales.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": " La persona empleadora, previa audiencia de los y las representantes de las personas trabajadoras, debe elaborar una política interna que defina las modalidades de ejercicio de este derecho y las acciones de formación y sensibilización sobre un uso razonable de las herramientas tecnológicas.",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": " Dada la naturaleza de este derecho, su obligatoriedad y el deber empresarial de definir protocolos de desconexión se circunscriben exclusivamente a las personas trabajadoras que prestan servicios a distancia o mediante teletrabajo.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": " En defecto de previsiones específicas en la negociación colectiva, la persona empresaria podrá establecer de forma unilateral las condiciones de la desconexión digital, siendo suficiente la notificación informativa a los y las representantes de las personas trabajadoras para su validez.",
           "correct": false
         }
       ]
@@ -4101,6 +4217,16 @@
         {
           "letter": "b",
           "text": " El derecho de supresión sobre contenidos de la etapa de minoría de edad decae automáticamente si la persona afectada, una vez alcanzada la mayoría de edad, realiza nuevas publicaciones en el mismo servicio, entendiéndose como una validación tácita de su historial previo.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": " En caso de que el derecho se ejercitase por una persona afectada respecto de datos que hubiesen sido facilitados al servicio, por ella o por terceras personas, durante su minoría de edad, la persona prestadora del servicio deberá proceder sin dilación a su supresión por su simple solicitud, sin necesidad de que concurran otras circunstancias.",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": " Las personas prestadoras de servicios de redes sociales están exentas de suprimir datos de menores si acreditan que dicha información se utiliza únicamente para fines estadísticos.",
           "correct": false
         }
       ]
@@ -4742,6 +4868,21 @@
         {
           "letter": "a",
           "text": " Regular exclusivamente la protección de datos de carácter personal en el sector público.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Establecer los principios básicos y requisitos mínimos para una protección adecuada de la información tratada y los servicios prestados.",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Sustituir la Ley de Procedimiento Administrativo Común en materia de administración digital.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Definir los estándares técnicos de interoperabilidad entre administraciones europeas.",
           "correct": false
         }
       ]
