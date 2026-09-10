@@ -7262,6 +7262,32 @@
       ]
     },
     {
+      "number": 280,
+      "question": "El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?",
+      "answers": [
+        {
+          "letter": "a",
+          "text": "Creación de una red de servicios privados de salud.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Aumentar la esperanza de vida a 90 años.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud.",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Eliminación total del cáncer infantil antes de 2030.",
+          "correct": false
+        }
+      ]
+    },
+    {
       "number": 281,
       "question": "¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?",
       "answers": [
