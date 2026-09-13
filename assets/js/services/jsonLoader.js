@@ -1,24 +1,25 @@
+async function loadFile(file) {
+  const response = await fetch(file);
 
-export async function loadQuestions(){
+  if (!response.ok) {
+    throw new Error(`No se pudo cargar ${file}: HTTP ${response.status}`);
+  }
 
-  const files = [
-    'assets/data/comun.json',
-    'assets/data/especifica.json'
-  ];
+  const data = await response.json();
+  const questions = Array.isArray(data) ? data : data.questions;
 
-  const questions = [];
-
-  for(const file of files){
-
-    const response = await fetch(file);
-    const data = await response.json();
-
-    const list = Array.isArray(data)
-      ? data
-      : data.questions;
-
-    list.forEach(q => questions.push(q));
+  if (!Array.isArray(questions)) {
+    throw new Error(`Formato de preguntas no válido en ${file}`);
   }
 
   return questions;
+}
+
+export async function loadQuestions() {
+  const [common, specific] = await Promise.all([
+    loadFile('assets/data/comun.json'),
+    loadFile('assets/data/especifica.json')
+  ]);
+
+  return { common, specific, all: [...common, ...specific] };
 }
