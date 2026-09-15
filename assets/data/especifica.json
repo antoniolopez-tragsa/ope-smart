@@ -3655,6 +3655,16 @@
           "letter": "b",
           "text": " No es posible de forma directa, dado que OneDrive solo admite el uso compartido entre personas usuarias que pertenezcan al mismo tenant o inquilino de Microsoft",
           "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Sí es posible, pero la persona destinataria deberá crear obligatoriamente una cuenta Microsoft antes de poder visualizar el archivo compartido.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Sí es posible, siempre que la persona administradora haya autorizado compartir con personas usuarias externas, que recibirán el acceso mediante un vínculo por correo electrónico como invitadas anónimas.",
+          "correct": true
         }
       ],
       "id": "especifica-105",
