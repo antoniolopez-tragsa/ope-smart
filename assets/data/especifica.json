@@ -3679,7 +3679,7 @@
     },
     {
       "number": 365,
-      "question": " c)  Sí es posible, pero la persona destinataria deberá crear obligatoriamente una cuenta  Microsoft antes de poder visualizar el archivo compartido.  d)  Sí es posible, siempre que la persona administradora haya autorizado compartir con  personas usuarias externas, que recibirán el acceso mediante un vínculo por correo  electrónico como invitadas anónimas.    106. Una empresa necesita crear un sitio SharePoint para gestionar grandes volúmenes  de datos entrantes, configurar reglas que dirijan automáticamente esos archivos a  ubicaciones específicas, y administrar modificaciones sobre los datos una vez  añadidos al sistema. ¿Qué tipo de sitio SharePoint cubre estas necesidades?   ",
+      "question": "Una empresa necesita crear un sitio SharePoint para gestionar grandes volúmenes  de datos entrantes, configurar reglas que dirijan automáticamente esos archivos a  ubicaciones específicas, y administrar modificaciones sobre los datos una vez  añadidos al sistema. ¿Qué tipo de sitio SharePoint cubre estas necesidades?   ",
       "answers": [
         {
           "letter": "a",
@@ -3689,7 +3689,7 @@
         {
           "letter": "b",
           "text": " Un centro de datos, ya que permite crear un sitio diseñado para la gestión de datos, configurar tablas de enrutamiento para enviar archivos entrantes a ubicaciones específicas y administrar la eliminación o modificación de datos tras añadirlos al sistema de referencia.",
-          "correct": false
+          "correct": true
         },
         {
           "letter": "c",
